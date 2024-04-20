@@ -100,5 +100,9 @@
   "devDependencies": {
     "@types/numeral": "^2.0.2",
     "@types/styled-components": "^5.1.26"
-  }
+  },
+
+  "main": "dist/index",
+"types": "dist/index"
+
 }
