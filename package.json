@@ -60,6 +60,9 @@
     "@mui/material": "^5.11.13",
     "@project-serum/pool": "^0.2.3",
     "@project-serum/serum": "^0.13.65",
+
+    "@project-serum/awesome-serum": "^1.0.1",
+
     "@react-aria/ssr": "^3.5.0",
     "@solana/spl-name-service": "^0.1.4",
     "@solana/wallet-adapter-bitpie": "^0.5.17",
